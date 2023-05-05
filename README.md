@@ -1,2 +1,2 @@
 # desktopApp
-application gestion de stock de service magasin 
+application de gestion stock de service magasin 
